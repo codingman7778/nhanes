@@ -1,0 +1,6 @@
+Summary of nhanes_23v1.csv
+==========================
+Rows: 7414
+Columns: 9
+Total entries (rows x columns): 66726
+Column names: SEQN, RIDAGEYR, RIAGENDR, BMXWT, BMXHT, BMXBMI, BPXOSY1, BPXOSY2, BPXOSY3
